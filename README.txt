@@ -12,9 +12,4 @@ The algorithm of selection goes as follow:
 2) For each selected chapter, one question is randomly picked. 
 
 
-To run the code, simply run the "run.bat" file, or run the random_generator.py file if you know how...
-
-
-
-
-
+To run the code, download Python and launch the IDLE application. From IDLE, open and run the random_generator.py file.
